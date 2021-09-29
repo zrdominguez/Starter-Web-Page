@@ -1,0 +1,29 @@
+body {
+    padding: 10px;
+}
+
+input {
+    width: 500px;
+}
+
+#email-label {
+    margin-top: 30px;
+}
+
+#form-message {
+    width: 500px;
+    height: 125px;
+}
+
+form button {
+    margin-top: 30px;
+}
+
+input,
+label,
+textarea,
+button {
+    display: block;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
